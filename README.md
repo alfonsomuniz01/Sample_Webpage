@@ -23,11 +23,6 @@ This project was built to:
 - HTML5
 - CSS3 (internal and/or external stylesheet)
 
-## 🧩 Future Improvements (Optional)
-
-- Add JavaScript interactivity (e.g., collapsible sections, quiz)
-- Include contact form or feedback option
-- Expand with real-world resource links
 
 ## 📂 How to View
 
